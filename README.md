@@ -1,7 +1,7 @@
 # VRMenuTestProject  
   
-Goal: Design and implement a VR menu without UMG or UI or similar. Only 3D interactable "menu" objects.  
-  
+Goal: Design and implement a menu for my newest virtual reality video game without using Unreal Motion Graphics, User Interfaces, primary use of Widgets, or similar. Only 3D interactable "menu" objects allowed. Widgets allowed as child components.  
+   
 Built off of: https://youtu.be/vEZWC2xZQMU  
   
 However, this video does not suit my needs as I need 3-4 menu options, not just one. So, I figured:  
